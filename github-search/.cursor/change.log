@@ -1,0 +1,13 @@
+# Registro de Alterações
+
+## [2024-11-07]
+- Inicialização do projeto Next.js
+- Configuração do TypeScript
+- Instalação das dependências necessárias
+- Criação da estrutura básica de arquivos
+- Implementação do componente SearchForm
+- Implementação do componente RepositoryList com vulnerabilidades XSS
+- Implementação da página principal com integração à API do GitHub
+- Adição de estilos CSS
+- Criação da documentação
+- Configuração dos arquivos de acompanhamento (.cursor/) 

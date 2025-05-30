@@ -1,0 +1,17 @@
+# Registro de Alterações - SQL Injection Demo
+
+## [2024-11-07]
+- Inicialização do projeto Next.js
+- Configuração do TypeScript
+- Instalação das dependências necessárias (next, react, better-sqlite3)
+- Criação do script de inicialização do banco de dados SQLite
+- Implementação das funções vulneráveis a SQL Injection
+- Criação da estrutura básica de arquivos
+- Implementação do layout principal e estilos CSS
+- Criação da página inicial com informações sobre SQL Injection
+- Implementação da página de login vulnerável
+- Implementação da página de busca vulnerável
+- Implementação da página de mensagens vulnerável
+- Criação da página de informações sobre SQL Injection
+- Documentação do projeto
+- Configuração dos arquivos de acompanhamento (.cursor/) 
